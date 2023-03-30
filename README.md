@@ -1,8 +1,8 @@
-###3 MavenReastAssuredApi for Java With POM and TestNG
+### MavenReastAssuredApi for Java With POM and TestNG
 
 **Clone the project Directory**
 
-## Note : Make sure your compiler source set to minimum 1.5
+# Note : Make sure your compiler source set to minimum 1.5
 ![image](https://user-images.githubusercontent.com/128251609/228705752-df454a96-b2ab-4834-b4ed-5c8ab48d4384.png)
 
 
