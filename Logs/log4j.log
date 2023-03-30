@@ -1975,3 +1975,31 @@
 2023-03-29 14:35:46 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 200
 2023-03-29 14:35:46 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
 2023-03-29 14:35:46 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Clement
+2023-03-30 03:09:52 INFO  Log:13 - =====================================read base URl from config file  TEST START=========================================
+2023-03-30 03:09:52 INFO  Log:24 - *****************value is retrived successfully
+2023-03-30 03:09:53 INFO  Log:13 - =====================================Add User TEST START=========================================
+2023-03-30 03:09:53 INFO  Log:24 - *****************body sent prameters 
+2023-03-30 03:09:54 INFO  Log:24 - *****************response  is printed 
+2023-03-30 03:09:54 INFO  Log:24 - *****************Get User Id value 
+2023-03-30 03:09:54 INFO  Log:24 - *****************Assert on the status code equal 201
+2023-03-30 03:09:54 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 201
+2023-03-30 03:09:54 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
+2023-03-30 03:09:54 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Meggan
+2023-03-30 03:09:54 INFO  Log:24 - *****************Assert on the status code equal 200
+2023-03-30 03:09:54 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 200
+2023-03-30 03:09:54 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
+2023-03-30 03:09:54 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Meggan
+2023-03-30 03:13:12 INFO  Log:13 - =====================================read base URl from config file  TEST START=========================================
+2023-03-30 03:13:12 INFO  Log:24 - *****************value is retrived successfully
+2023-03-30 03:13:12 INFO  Log:13 - =====================================Add User TEST START=========================================
+2023-03-30 03:13:12 INFO  Log:24 - *****************body sent prameters 
+2023-03-30 03:13:13 INFO  Log:24 - *****************response  is printed 
+2023-03-30 03:13:13 INFO  Log:24 - *****************Get User Id value 
+2023-03-30 03:13:13 INFO  Log:24 - *****************Assert on the status code equal 201
+2023-03-30 03:13:13 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 201
+2023-03-30 03:13:13 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
+2023-03-30 03:13:13 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Jame
+2023-03-30 03:13:14 INFO  Log:24 - *****************Assert on the status code equal 200
+2023-03-30 03:13:14 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 200
+2023-03-30 03:13:14 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
+2023-03-30 03:13:14 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Jame
