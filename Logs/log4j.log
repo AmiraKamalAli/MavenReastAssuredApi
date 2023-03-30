@@ -2003,3 +2003,27 @@
 2023-03-30 03:13:14 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 200
 2023-03-30 03:13:14 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
 2023-03-30 03:13:14 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Jame
+2023-03-30 03:56:53 INFO  Log:13 - =====================================read base URl from config file  TEST START=========================================
+2023-03-30 03:56:53 INFO  Log:24 - *****************value is retrived successfully
+2023-03-30 03:56:53 INFO  Log:13 - =====================================Add User TEST START=========================================
+2023-03-30 03:56:53 INFO  Log:24 - *****************body sent prameters 
+2023-03-30 03:56:54 INFO  Log:24 - *****************response  is printed 
+2023-03-30 03:56:54 INFO  Log:24 - *****************Get User Id value 
+2023-03-30 03:56:54 INFO  Log:24 - *****************Assert on the status code equal 201
+2023-03-30 03:56:54 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 201
+2023-03-30 03:56:54 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
+2023-03-30 03:56:54 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Jennie
+2023-03-30 03:57:00 INFO  Log:13 - =====================================read base URl from config file  TEST START=========================================
+2023-03-30 03:57:01 INFO  Log:24 - *****************value is retrived successfully
+2023-03-30 03:57:01 INFO  Log:13 - =====================================Add User TEST START=========================================
+2023-03-30 03:57:01 INFO  Log:24 - *****************body sent prameters 
+2023-03-30 03:57:02 INFO  Log:24 - *****************response  is printed 
+2023-03-30 03:57:02 INFO  Log:24 - *****************Get User Id value 
+2023-03-30 03:57:02 INFO  Log:24 - *****************Assert on the status code equal 201
+2023-03-30 03:57:02 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 201
+2023-03-30 03:57:02 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
+2023-03-30 03:57:02 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Shanda
+2023-03-30 03:57:02 INFO  Log:24 - *****************Assert on the status code equal 200
+2023-03-30 03:57:02 INFO  Log:24 - *****************Successfully validdated status code, status code is :: 200
+2023-03-30 03:57:02 INFO  Log:24 - *****************validate  firstName value  is equal to the created name.
+2023-03-30 03:57:02 INFO  Log:24 - *****************Sucessfully validated value of firstName It is Shanda
