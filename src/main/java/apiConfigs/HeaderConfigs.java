@@ -1,13 +1,7 @@
 package apiConfigs;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.HashMap;
 import java.util.Map;
-
-import io.restassured.RestAssured;
-import io.restassured.specification.RequestSpecification;
 
 public class HeaderConfigs {
 	
